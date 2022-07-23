@@ -1,0 +1,25 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  /* border-style: dotted none none;
+  read documentation for above... alternate way is--below */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 7%;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
+
+img:hover {
+  background-color: yellow;
+}
+/* img {
+  height: 20px;
+} */
+/* it wont work for image becausew i have specified it earlier down below. */
